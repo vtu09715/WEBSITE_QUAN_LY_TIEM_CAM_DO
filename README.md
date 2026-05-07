@@ -1,5 +1,15 @@
 # WEBSITE_QUAN_LY_TIEM_CAM_DO
 
+# VŨ ĐỨC TÚ 
+
+# K225480106068
+
+# LỚP: K58.KTP
+
+# CẤU TRỨC CSDL TRÊN BẢNG 
+
+<img width="1184" height="2560" alt="image" src="https://github.com/user-attachments/assets/b046711c-5c88-4418-9d25-1812db021a5f" />
+
 # kết nối ssh với máy ảo 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/22ffbede-42cb-41f3-9b61-34d52056c4a4" />
